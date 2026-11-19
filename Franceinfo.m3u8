@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5192000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,VIDEO-RANGE=SDR
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4

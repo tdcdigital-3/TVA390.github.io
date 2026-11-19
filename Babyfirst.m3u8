@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-MEDIA:LANGUAGE="eng",AUTOSELECT=YES,TYPE=AUDIO,URI="https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/audio_1.m3u8",GROUP-ID="audio-aacl-96",DEFAULT=YES,NAME="English"
+#EXT-X-MEDIA:LANGUAGE="spa",AUTOSELECT=NO,TYPE=AUDIO,URI="https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/audio_2.m3u8",GROUP-ID="audio-aacl-96",DEFAULT=NO,NAME="Spanish"
+#EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=25.0,BANDWIDTH=3740000,AUDIO="audio-aacl-96"
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/4.m3u8

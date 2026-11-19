@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=384000,RESOLUTION=1280x720
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w731908444_b384000_sleng.m3u8

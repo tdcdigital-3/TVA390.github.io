@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2223600,RESOLUTION=1280x720
+https://webtvstream.bhtelecom.ba/hls15/gametoon_1200.m3u8
+
